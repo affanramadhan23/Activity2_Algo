@@ -121,7 +121,7 @@ namespace QuickSort
         {
             return (n);
         }
-        static void main(string[] args)
+        static void Main(string[] args)
         {
             //Declaring the object of the class
             Program myList = new Program();
